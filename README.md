@@ -1,4 +1,4 @@
-## This is the main interface that stores date of birth information..\ When clicking on the items, there will be a toast showing the number of days to count down, the age, in addition to know what day the upcoming birthday will take place.
+## This is the main interface that stores date of birth information. When clicking on the items, there will be a toast showing the number of days to count down, the age, in addition to know what day the upcoming birthday will take place.
 
 <img width="500" alt="3" src="https://www.linkpicture.com/q/243815889_454645495822606_5793533335794935535_n.jpg">
 
